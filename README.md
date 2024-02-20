@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ivy Matobori</h1>
 <h3 align="center">I am Passionate Embedded Systems Engineer</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...
-")
+(img align="right" alt="Coding" width="400" src="https://progbiz.io/assets/images/iot666.jpg")
 
 - 🔭 I’m currently working on **a bunch of microcontroller specific projects.**
 
