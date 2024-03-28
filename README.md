@@ -5,6 +5,7 @@
 <h3 align="center">I am a passionate Embedded Systems Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQG9ZRiXHUxYzg/article-cover_image-shrink_720_1280/0/1693806971948?e=2147483647&v=beta&t=0bZXZ7Sf306_lH-Bk_ubml4BAo_LHLT15HW272p3P50">
 
+
 - 🔭 I’m currently working on **a bunch of microcontroller specific projects.**
 
 - 🌱 I’m currently learning **Embedded Linux and Designing Operating systems**
