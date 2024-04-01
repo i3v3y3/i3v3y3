@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **PCB designing and hardware design**
 
-- 📫 How to reach me **ivyonchiri3@gmail.com**
+- 📫 How to reach me **matoboriivy@gmail.com**
 
 - ⚡ Fun fact **I love reading all sorts of books**
 
